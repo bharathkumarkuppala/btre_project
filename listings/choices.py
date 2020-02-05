@@ -1,0 +1,65 @@
+bedroom_choices = {
+    '1': 1,
+    '2': 2,
+    '3': 3,
+    '4': 4,
+    '5': 5,
+    '6': 6,
+    '7': 7,
+    '8': 8,
+    '9': 9,
+    '10': 10
+}
+
+price_choices = {
+    '100000': '$100,000',
+    '200000': '$200,000',
+    '300000': '$300,000',
+    '400000': '$400,000',
+    '500000': '$500,000',
+    '600000': '$600,000',
+    '700000': '$700,000',
+    '800000': '$800,000',
+    '900000': '$900,000',
+    '1000000': '$1M+'
+}
+
+
+state_choices = {'Andhra Pradesh': 'Andhra Pradesh',
+                 'Arunachal Pradesh': 'Arunachal Pradesh',
+                'Assam': 'Assam',
+                'BR': 'Bihar',
+                'CG': 'Chhattisgarh',
+                'GA': 'Goa',
+                'GJ': 'Gujarat',
+                'HR': 'Haryana',
+                'HP': 'Himachal Pradesh',
+                'JL': 'Jammu and Kashmir',
+                'JH': 'Jharkhand',
+                'KA': 'Karnataka',
+                'KL': 'Kerala',
+                'MP': 'Madhya Pradesh',
+                'MH': 'Maharashtra',
+                'MN': 'Manipur',
+                'ML': 'Meghalaya',
+                'MZ': 'Mizoram',
+                'NL': 'Nagaland',
+                'OR': 'Odisha',
+                'PB': 'Punjab',
+                'RJ': 'Rajasthan',
+                'SK': 'Sikkim',
+                'Tamil Nadu': 'Tamil Nadu',
+                'Telangana': 'Telangana',
+                'TR': 'Tripura',
+                'UP': 'Uttar Pradesh',
+                'UK': 'Uttarakhand',
+                'WB': 'West Bengal',
+                'AN': 'Andaman and Nicobar Islands',
+                'CH': 'Chandigarh',
+                'DH': 'Dadra and Nagar Haveli',
+                'DD': 'Daman and Diu',
+                'LD': 'Lakshadweep',
+                'NCR': 'National Capital Territory of Delhi',
+                'PY': 'Puducherry'
+}
+
